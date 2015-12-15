@@ -1,0 +1,1 @@
+This project will produce custom rules for FxCop, that will look for coding mistakes similar to those found by FindBugs, such as infinite recursive loops and ignored return values.
